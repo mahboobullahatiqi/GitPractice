@@ -12,4 +12,12 @@ public class GitNew {
 		System.out.println();
 		
 	}
+	private static void tet() {
+		System.out.println();
+		
+	}
+	private static void tet() {
+		System.out.println();
+		
+	}
 }
