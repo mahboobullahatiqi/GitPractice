@@ -5,6 +5,11 @@ public class GitNew {
 		int x = 2;
 		int y= 4;
 		System.out.println(x*y);
-	}
+		
+		}
 
+	private static void tet() {
+		System.out.println();
+		
+	}
 }
